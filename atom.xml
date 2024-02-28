@@ -3,11 +3,11 @@
   <title>醉酒春风</title>
   
   <subtitle>相思本是无凭语，莫向花笺费泪行。</subtitle>
-  <link href="https://gl-strive.gitee.io/atom.xml" rel="self"/>
+  <link href="https://gl-strive.gitee.io/personal-notes/atom.xml" rel="self"/>
   
-  <link href="https://gl-strive.gitee.io/"/>
+  <link href="https://gl-strive.gitee.io/personal-notes/"/>
   <updated>2024-02-28T03:15:01.495Z</updated>
-  <id>https://gl-strive.gitee.io/</id>
+  <id>https://gl-strive.gitee.io/personal-notes/</id>
   
   <author>
     <name>Joker</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://gl-strive.gitee.io/2024/02/28/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7/learn1/"/>
-    <id>https://gl-strive.gitee.io/2024/02/28/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7/learn1/</id>
+    <link href="https://gl-strive.gitee.io/personal-notes/2024/02/28/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7/learn1/"/>
+    <id>https://gl-strive.gitee.io/personal-notes/2024/02/28/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7/learn1/</id>
     <published>2024-02-28T03:14:45.833Z</published>
     <updated>2024-02-28T03:15:01.495Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gl-strive.gitee.io/2024/02/27/hello-world/"/>
-    <id>https://gl-strive.gitee.io/2024/02/27/hello-world/</id>
+    <link href="https://gl-strive.gitee.io/personal-notes/2024/02/27/hello-world/"/>
+    <id>https://gl-strive.gitee.io/personal-notes/2024/02/27/hello-world/</id>
     <published>2024-02-27T15:43:06.067Z</published>
     <updated>2024-02-27T15:43:06.068Z</updated>
     
